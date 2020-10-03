@@ -1,0 +1,9 @@
+.justifyRight{
+    position: absolute;
+    right: 0px;
+}
+
+.justifyLeft{
+    position: absolute;
+    left: 0px;
+}
